@@ -6,7 +6,8 @@ A modern, fully responsive Rug Cleaning Service website built using HTML, CSS, a
 
 ![Screenshot 2025-05-11 175214](https://github.com/user-attachments/assets/6eabe61e-0c09-491b-8823-db346300e85c)
 ![Screenshot 2025-05-11 175223](https://github.com/user-attachments/assets/918b935e-f851-4261-99f4-2a8874349f26)
-![Uploading Screenshot 2025-05-11 175234.png…]()
+![Screenshot 2025-05-11 175234](https://github.com/user-attachments/assets/00ee7948-b8a4-4647-83c1-a0c0a1271805)
+
 
 
 
@@ -31,24 +32,3 @@ CSS3	Styling and layout
 JavaScript	UI interactivity
 Flexbox / Grid	Responsive layout
 Media Queries	Device adaptation
-
-🗂️ Project Structure
-bash
-Copy
-Edit
-/rug-cleaning-website
-│
-├── index.html         # Home page
-├── services.html      # Services page
-├── contact.html       # Contact form
-├── css/
-│   └── style.css      # Main stylesheet
-├── js/
-│   └── script.js      # Optional JS interactivity
-├── images/            # Logo and assets
-└── README.md          # Project documentation
-
-
-
-
-Let me know if you'd like to include a contact form that actually sends messages (e.g., with Formspree or PHP backend).
